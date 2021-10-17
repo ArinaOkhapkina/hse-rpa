@@ -1,3 +1,3 @@
-query = "RPA impact"
-num_page = 2
-receiver = "Dmitry.Fedorov@mazars.ru"
+query = "algorithm"
+num_page = 3
+receiver = "asokhapkina@edu.hse.ru"
